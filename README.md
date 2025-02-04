@@ -1,6 +1,3 @@
-# CIS350-HW2-felber
-
-
 # Joan Felber
 
 • I'm starting a band
